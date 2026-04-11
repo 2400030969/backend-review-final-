@@ -1,0 +1,72 @@
+[
+  {
+    "id": "u1",
+    "name": "Teacher Admin",
+    "email": "teacher@test.com",
+    "password": "password123",
+    "role": "teacher"
+  },
+  {
+    "id": "u2",
+    "name": "Student One",
+    "email": "student1@test.com",
+    "password": "password123",
+    "role": "student"
+  },
+  {
+    "id": "u3",
+    "name": "Student Two",
+    "email": "student2@test.com",
+    "password": "password123",
+    "role": "student"
+  },
+  {
+    "id": "user-1773296268828",
+    "name": "varun",
+    "email": "2400030969@kluniversity.in",
+    "password": "12345",
+    "role": "student"
+  },
+  {
+    "id": "user-1773813074989",
+    "name": "varun",
+    "email": "2400030970@kluniversity.in",
+    "password": "123456",
+    "role": "student"
+  },
+  {
+    "id": "user-1775707148889",
+    "name": "ram",
+    "email": "rangasaivarun48@gmail.com",
+    "password": "12345",
+    "role": "student"
+  },
+  {
+    "id": "user-1775707204797",
+    "name": "venkat",
+    "email": "1234@gmail.com",
+    "password": "987654",
+    "role": "teacher"
+  },
+  {
+    "id": "user-1775707393961",
+    "name": "harsha",
+    "email": "2400030973@kluniversity.in",
+    "password": "Harsha",
+    "role": "student"
+  },
+  {
+    "id": "user-1775711587403",
+    "name": "Final Test Teacher",
+    "email": "final_teacher@test.com",
+    "password": "test123",
+    "role": "teacher"
+  },
+  {
+    "id": "user-1775712564584",
+    "name": "geervan",
+    "email": "2400031686@kluniversity.in",
+    "password": "12345",
+    "role": "student"
+  }
+]
